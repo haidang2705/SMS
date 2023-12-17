@@ -1,0 +1,301 @@
+School Name: School of Computer Science
+Head of School: Professor David
+School Manager: Miss Cindy
+Staff List: 
+
+Professor David
+Staff ID: 100001
+Gender: Male
+Phone: 4221-1111
+Email: david@university.edu.au
+Location: 3.001
+Teaching Subjects: 
+HDR Student Supervision: Sofia, 
+
+Miss Cindy
+Staff ID: 100002
+Gender: Female
+Phone: cindy@university.edu.au
+Email: 3.002
+Location: Monday ~ Thursday
+Working Hours: School Manager
+
+Dr. Liam
+Staff ID: 100003
+Gender: Male
+Phone: 4221-1113
+Email: liam@university.edu.au
+Location: 3.003
+Teaching Subjects: CSIT111, CSIT111SWS, 
+HDR Student Supervision: Lucas, 
+
+Dr. Noah
+Staff ID: 100004
+Gender: Male
+Phone: 4221-1114
+Email: noah@university.edu.au
+Location: 3.004
+Teaching Subjects: CSIT113, CSIT113SWS, 
+HDR Student Supervision: Ella, 
+
+Dr. William
+Staff ID: 100005
+Gender: Male
+Phone: 4221-1115
+Email: william@university.edu.au
+Location: 3.005
+Teaching Subjects: CSIT114, CSIT114SWS, 
+HDR Student Supervision: Ethan, 
+
+Dr. Emma
+Staff ID: 100006
+Gender: Female
+Phone: 4221-1116
+Email: emma@university.edu.au
+Location: 3.006
+Teaching Subjects: CSIT115, CSCI235, 
+HDR Student Supervision: Victoria, 
+
+Dr. Ava
+Staff ID: 100007
+Gender: Female
+Phone: 4221-1117
+Email: ava@university.edu.au
+Location: 3.007
+Teaching Subjects: CSIT121, CSCI251, 
+HDR Student Supervision: Daniel, 
+
+Dr. Mia
+Staff ID: 100008
+Gender: Female
+Phone: 4221-1118
+Email: mia@university.edu.au
+Location: 3.008
+Teaching Subjects: CSIT127, CSIT128, 
+HDR Student Supervision: Grace, 
+
+1 1
+Staff ID: 1
+Gender: Female
+Phone: 1
+Email: 1
+Location: 1
+Working Hours: 1
+
+2 2
+Staff ID: 2
+Gender: Male
+Phone: 2
+Email: 2
+Location: 2
+Teaching Subjects: CSCI251, 
+HDR Student Supervision: Ethan, 
+
+School Subject List: 
+
+Code: CSIT111
+Name: Programming Fundamentals
+Session and Year: Autumn 2021
+Campus: Wollongong
+Coordinator: Liam
+Enrolled Students: Isabella, 
+
+Code: CSIT113
+Name: Problem Solving
+Session and Year: Autumn 2021
+Campus: Wollongong
+Coordinator: Noah
+Enrolled Students: Sophia, 
+
+Code: CSIT114
+Name: System Analysis
+Session and Year: Autumn 2021
+Campus: Wollongong
+Coordinator: William
+Enrolled Students: Charlotte, 
+
+Code: CSIT111SWS
+Name: Programming Fundamentals
+Session and Year: Autumn 2021
+Campus: SWS
+Coordinator: Liam
+Enrolled Students: James, 
+
+Code: CSIT113SWS
+Name: Problem Solving
+Session and Year: Autumn 2021
+Campus: SWS
+Coordinator: Noah
+Enrolled Students: Logan, 
+
+Code: CSIT114SWS
+Name: System Analysis
+Session and Year: Autumn 2021
+Campus: SWS
+Coordinator: William
+Enrolled Students: Benjamin, 
+
+Code: CSIT115
+Name: Data Management and Security
+Session and Year: Autumn 2021
+Campus: Wollongong
+Coordinator: Emma
+Enrolled Students: Amelia, 
+
+Code: CSIT121
+Name: Object Oriented Design and Programming
+Session and Year: Autumn 2021
+Campus: Wollongong
+Coordinator: Ava
+Enrolled Students: Mason, 
+
+Code: CSIT127
+Name: Networks and Communications
+Session and Year: Autumn 2021
+Campus: Wollongong
+Coordinator: Mia
+Enrolled Students: Evelyn, 
+
+Code: CSIT128
+Name: Introduction to Web Technology
+Session and Year: Autumn 2021
+Campus: Wollongong
+Coordinator: Mia
+Enrolled Students: Elijah, 
+
+Code: CSIT214
+Name: IT Project Management
+Session and Year: Autumn 2021
+Campus: Wollongong
+Coordinator: David
+Enrolled Students: Emily, 
+
+Code: CSCI235
+Name: Database Systems
+Session and Year: Autumn 2021
+Campus: Wollongong
+Coordinator: Emma
+Enrolled Students: Aiden, 
+
+Code: CSCI251
+Name: Advanced Programming
+Session and Year: Autumn 2021
+Campus: Wollongong
+Coordinator: Ava
+Enrolled Students: Selena, 
+
+Code: 3
+Name: 3
+Session and Year: 3
+Campus: 3
+Coordinator: 2
+Enrolled Students: Charlotte, Benjamin, Amelia, 
+
+School Student List: 
+
+Student Name Isabella
+Student ID: 1234501
+Course: BCS
+Enrolled Subjects: CSIT111, 
+
+Student Name James
+Student ID: 1234502
+Course: BCS
+Enrolled Subjects: CSIT111SWS, 
+
+Student Name Sophia
+Student ID: 1234503
+Course: BCS
+Enrolled Subjects: CSIT113, 
+
+Student Name Logan
+Student ID: 1234504
+Course: BCS
+Enrolled Subjects: CSIT113SWS, 
+
+Student Name Charlotte
+Student ID: 1234505
+Course: BCS
+Enrolled Subjects: CSIT114, 
+
+Student Name Benjamin
+Student ID: 1234506
+Course: BCS
+Enrolled Subjects: CSIT114SWS, 
+
+Student Name Amelia
+Student ID: 1234507
+Course: BCS
+Enrolled Subjects: CSIT115, 
+
+Student Name Mason
+Student ID: 1234508
+Course: BCS
+Enrolled Subjects: CSIT121, 
+
+Student Name Evelyn
+Student ID: 1234509
+Course: BCS
+Enrolled Subjects: CSIT127, 
+
+Student Name Elijah
+Student ID: 1234510
+Course: BCS
+Enrolled Subjects: CSIT128, 
+
+Student Name Emily
+Student ID: 1234511
+Course: BIT
+Enrolled Subjects: CSIT214, 
+
+Student Name Aiden
+Student ID: 1234512
+Course: BIT
+Enrolled Subjects: CSCI235, 
+
+Student Name Selena
+Student ID: 1234513
+Course: BIT
+Enrolled Subjects: CSCI251, 
+
+Student Name Sofia
+Student ID: 1234514
+Course: PhD
+Supervisor: David
+
+
+Student Name Lucas
+Student ID: 1234515
+Course: PhD
+Supervisor: Liam
+
+
+Student Name Ella
+Student ID: 1234516
+Course: PhD
+Supervisor: Noah
+
+
+Student Name Ethan
+Student ID: 1234517
+Course: PhD
+Supervisor: William
+
+
+Student Name Victoria
+Student ID: 1234518
+Course: PhD
+Supervisor: Emma
+
+
+Student Name Daniel
+Student ID: 1234519
+Course: PhD
+Supervisor: Ava
+
+
+Student Name Grace
+Student ID: 1234520
+Course: PhD
+Supervisor: Mia
+
